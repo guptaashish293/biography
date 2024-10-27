@@ -1311,3 +1311,17 @@ section,
     left: 30px;
     border: 1px green solid;
 }
+
+
+/*----------------------------------------------------*/
+
+.techIcon {
+    width: 70px;
+    height: 70px;
+    margin-left: 5px;
+}
+
+.techIcon:hover {
+    filter: drop-shadow(10px 10px 20px rgba(36, 36, 36, 0.5));
+}
+
